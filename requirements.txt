@@ -1,0 +1,9 @@
+# پایه
+kafka-python==2.0.2
+psutil==5.9.5
+python-dotenv==1.0.0
+
+# برای consumer (اگر نیاز به دیتابیس دارد)
+psycopg2-binary==2.9.7
+# یا اگر از SQLAlchemy استفاده می‌کنید:
+# sqlalchemy==1.4.46
